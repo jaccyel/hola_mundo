@@ -1,1 +1,3 @@
-// JavaScript Document
+function hola() {
+	alert ("hola, ¿como estas?");
+}

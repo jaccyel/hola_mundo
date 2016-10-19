@@ -2,3 +2,19 @@ body{
 	background:#C00;
 
 }
+.contenedor {
+	background-color: #9F0;
+	text-align: center;
+	height: 80px;
+	width: 250px;
+	vertical-align: middle;
+	margin: 0 auto;
+	left: 43%;
+	top: 40%;
+	position: absolute;
+}
+.contenedor .boton {
+	left: 33%;
+	top: 40%;
+	position: absolute;
+}
